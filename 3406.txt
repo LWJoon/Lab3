@@ -1,0 +1,5 @@
+[ Thu Nov 21 20:06:42 2019 ] P2 : /s 
+[ Thu Nov 21 20:06:46 2019 ] P1 : hello! 
+[ Thu Nov 21 20:06:51 2019 ] P2 : hi! 
+[ Thu Nov 21 20:06:59 2019 ] P1 : system programming 
+[ Thu Nov 21 20:07:03 2019 ] P2 : okay 
